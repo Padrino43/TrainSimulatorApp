@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad10c329-654e-41e4-a959-067967656b8e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/pl/project/train/simulator/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2N0wFWGjtd72laUxl3TnpbafJX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mkubi/Desktop/GUI_DZ_2223L_PRO1_GR32c_s27802_IntelliJ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.project.train.simulator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Presentation">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.project.train.simulator.Main" />
+      <module name="PROJEKT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Presentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.project.train.simulator.Presentation" />
+      <module name="PROJEKT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.project.train.simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Presentation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad10c329-654e-41e4-a959-067967656b8e" name="Changes" comment="" />
+      <created>1678814204166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678814204166</updated>
+      <workItem from="1678814205192" duration="310000" />
+      <workItem from="1679087516884" duration="30000" />
+      <workItem from="1679752701199" duration="12434000" />
+      <workItem from="1679776972823" duration="2057000" />
+      <workItem from="1679822598852" duration="1000" />
+      <workItem from="1679823989664" duration="9349000" />
+      <workItem from="1679842844153" duration="9908000" />
+      <workItem from="1679936773465" duration="16000" />
+      <workItem from="1679943075093" duration="4865000" />
+      <workItem from="1680034341428" duration="879000" />
+      <workItem from="1680200770947" duration="7213000" />
+      <workItem from="1680294617861" duration="2022000" />
+      <workItem from="1680348200063" duration="655000" />
+      <workItem from="1680351092620" duration="700000" />
+      <workItem from="1680357893710" duration="1926000" />
+      <workItem from="1680366224184" duration="15104000" />
+      <workItem from="1680432258939" duration="10758000" />
+      <workItem from="1680466209327" duration="3000" />
+      <workItem from="1680466216958" duration="552000" />
+      <workItem from="1680517078694" duration="5096000" />
+      <workItem from="1680544688131" duration="2109000" />
+      <workItem from="1680625024085" duration="4779000" />
+      <workItem from="1680723724571" duration="5369000" />
+      <workItem from="1680777281704" duration="17271000" />
+      <workItem from="1680889740864" duration="731000" />
+      <workItem from="1680901127139" duration="289000" />
+      <workItem from="1680977719502" duration="184000" />
+      <workItem from="1680979695737" duration="1788000" />
+      <workItem from="1681037526282" duration="14423000" />
+      <workItem from="1681054593047" duration="11856000" />
+      <workItem from="1681066866090" duration="4438000" />
+      <workItem from="1681132639188" duration="13317000" />
+      <workItem from="1681328006727" duration="4727000" />
+      <workItem from="1681333127608" duration="3509000" />
+      <workItem from="1681370957572" duration="19639000" />
+      <workItem from="1681459346986" duration="9849000" />
+      <workItem from="1681488964037" duration="23033000" />
+      <workItem from="1681548881774" duration="23576000" />
+      <workItem from="1681577595196" duration="18571000" />
+      <workItem from="1681640353034" duration="37225000" />
+      <workItem from="1681716327829" duration="13581000" />
+      <workItem from="1681730514895" duration="2450000" />
+      <workItem from="1681736790953" duration="5983000" />
+      <workItem from="1681742862873" duration="16745000" />
+      <workItem from="1681761213524" duration="622000" />
+      <workItem from="1681762479461" duration="7000" />
+      <workItem from="1681762577278" duration="1155000" />
+      <workItem from="1681763783134" duration="2252000" />
+      <workItem from="1681766779620" duration="4190000" />
+      <workItem from="1681846974382" duration="1586000" />
+      <workItem from="1681850076155" duration="2659000" />
+      <workItem from="1681902588335" duration="4725000" />
+      <workItem from="1681933001095" duration="13434000" />
+      <workItem from="1681971000425" duration="822000" />
+      <workItem from="1681972165753" duration="4000" />
+      <workItem from="1681972486151" duration="5299000" />
+      <workItem from="1681978187806" duration="4290000" />
+      <workItem from="1681983000001" duration="2045000" />
+      <workItem from="1681986257763" duration="4175000" />
+      <workItem from="1681990994145" duration="24000" />
+      <workItem from="1681992057430" duration="542000" />
+      <workItem from="1681992628803" duration="1000" />
+      <workItem from="1681992637371" duration="14000" />
+      <workItem from="1685295986071" duration="19000" />
+      <workItem from="1685380262696" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
